@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ANAND
+- 👀 I’m interested in pyhon,java and android
+- 🌱 I’m currently learning Django
